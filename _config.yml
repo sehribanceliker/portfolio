@@ -1,5 +1,5 @@
 title: Sehriban Celiker
-logo: IMG_6607.heic
-Data Scientis, Data Engineer, Data Analyst
-show_downloads: False
-theme: jekyll-minimal
+logo: / asssets/IMG_6607.heic
+#description: Data Scientis, Data Engineer, Data Analyst
+show_downloads: True
+theme: jekyll-theme-minimal
